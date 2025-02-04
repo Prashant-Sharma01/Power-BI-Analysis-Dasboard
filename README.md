@@ -1,1 +1,2 @@
-# Power-BI-Analysis-Dasboard
+# Power_BI_Dashboard_Analysis
+This is a repository of Power BI dashboard analysis projects, designed to give interactive insight through visualization. It integrates data from different sources and helps with analytics in real-time for decision-making. Dashboards include dynamic charts, tables, and KPIs for easy tracking of key metrics and performance trends. Advanced data models as well as DAX calculations are used to delve deeper into analysis. This repository illustrates the usability of Power BI to create effective business intelligence solutions. Browse through the files below to view sample dashboards, reference datasets, and learn best practices for great data visualization.
